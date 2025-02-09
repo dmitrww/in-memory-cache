@@ -80,5 +80,5 @@ func (c *Cache) WorkerPool(interval time.Duration, LotWorker int) { // созд�
 		}
 
 	}()
-
+	// lol
 }
